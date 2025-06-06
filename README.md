@@ -1,4 +1,7 @@
 # Australia_Data_Science_Jobs
+![Data_scince](ds-jobs-899x1024.png)
+
+
 🔍 Insights
 1. Top Locations for Data Science Jobs
 Victoria (748 jobs) and New South Wales (695 jobs) lead in job availability.
